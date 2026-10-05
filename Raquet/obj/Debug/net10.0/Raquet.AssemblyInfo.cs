@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Raquet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ac0128557a7f0b1010cc7e12f5740f37791b80b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Raquet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Raquet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

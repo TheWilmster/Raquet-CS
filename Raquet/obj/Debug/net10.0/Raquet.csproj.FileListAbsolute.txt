@@ -1,0 +1,6 @@
+C:\Users\wcoop\Documents\GitHub\Raquet-CS\Raquet\obj\Debug\net10.0\Raquet.csproj.AssemblyReference.cache
+C:\Users\wcoop\Documents\GitHub\Raquet-CS\Raquet\obj\Debug\net10.0\Raquet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wcoop\Documents\GitHub\Raquet-CS\Raquet\obj\Debug\net10.0\Raquet.AssemblyInfoInputs.cache
+C:\Users\wcoop\Documents\GitHub\Raquet-CS\Raquet\obj\Debug\net10.0\Raquet.AssemblyInfo.cs
+C:\Users\wcoop\Documents\GitHub\Raquet-CS\Raquet\obj\Debug\net10.0\Raquet.csproj.CoreCompileInputs.cache
+C:\Users\wcoop\Documents\GitHub\Raquet-CS\Raquet\obj\Debug\net10.0\Raquet.sourcelink.json

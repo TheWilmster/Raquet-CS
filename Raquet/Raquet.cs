@@ -17,8 +17,8 @@ public static partial class Raquet
     {
         nint Window;
         bool Fullscreen = false;
-        nint Renderer;
-        nint FinalTexture;
+        internal nint Renderer;
+        internal nint FinalTexture;
 
         SDL.SDL_Rect RectScreen = new()
         {
@@ -43,8 +43,8 @@ public static partial class Raquet
 
         public abstract void createthedog();
 
-        UInt64 StartTick = 0;
-        UInt64 LastTick = 0;
+        ulong StartTick = 0;
+        ulong LastTick = 0;
         double DeltaTime = 1;
 
         bool InitSDL()

@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Owner\\.nuget\\packages\\": {}
+    "C:\\Users\\wcoop\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\Raquet\\Raquet\\Raquet.csproj",
+      "projectUniqueName": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet.csproj",
       "projectName": "Raquet",
-      "projectPath": "C:\\Users\\Owner\\source\\repos\\Raquet\\Raquet\\Raquet.csproj",
-      "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\source\\repos\\Raquet\\Raquet\\obj\\",
+      "projectPath": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet.csproj",
+      "packagesPath": "C:\\Users\\wcoop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wcoop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

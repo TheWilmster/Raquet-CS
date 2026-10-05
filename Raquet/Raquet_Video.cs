@@ -71,7 +71,7 @@ public static partial class Raquet
         void DrawLine(int x1, int y1, int x2, int y2, uint pal, byte alpha)
         {
             SetDrawColor(pal, alpha);
-            SDL.SDL_RenderDrawLine(Renderer, x1, y1 x2, y2);
+            SDL.SDL_RenderDrawLine(Renderer, x1, y1, x2, y2);
         }
     }
 
