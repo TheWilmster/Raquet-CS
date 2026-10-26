@@ -42,6 +42,16 @@ public static partial class Raquet
     static ulong LastTick = 0;
     static double DeltaTime = 1;
 
+
+    [DllImport("kernel32.dll")]
+    static extern IntPtr GetConsoleWindow();
+
+    [DllImport("user32.dll")]
+    static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
+
+    const int SW_HIDE = 0;
+    const int SW_SHOW = 5;
+
     static bool InitSDL()
     {
         if (SDL_Init(SDL_INIT_VIDEO | SDL_INIT_AUDIO) < 0)
@@ -85,6 +95,12 @@ public static partial class Raquet
         SDL_RenderSetViewport(Renderer, ref RectScreen);
 
         SDL_SetRenderDrawBlendMode(Renderer, SDL_BlendMode.SDL_BLENDMODE_BLEND);
+
+        if (Settings.INTEGER_SCALING) // fixes stupid fucking bug where the rect is bigger than the window for some stupid fucking reason
+        {
+            SDL_SetWindowFullscreen(Window, (uint)SDL_WindowFlags.SDL_WINDOW_FULLSCREEN_DESKTOP);
+            SDL_SetWindowFullscreen(Window, 0);
+        }
 
         return true;
     }
