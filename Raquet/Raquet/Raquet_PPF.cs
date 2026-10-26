@@ -1,4 +1,4 @@
-﻿using SDL2;
+﻿using static SDL2.SDL;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -34,17 +34,17 @@ public static partial class Raquet
 
     public static bool LoadPPFBank(ref byte[] targetarray, string dir)
     {
-        if (SDL.SDL_RWFromFile(dir, "rb") != nint.Zero)
+        if (SDL_RWFromFile(dir, "rb") != nint.Zero)
         {
-            nint ppfdata = SDL.SDL_RWFromFile(dir, "rb");
-            long sizeoffile = SDL.SDL_RWseek(ppfdata, 0, SDL.RW_SEEK_END);
-            SDL.SDL_RWseek(ppfdata, 0, SDL.RW_SEEK_SET);
+            nint ppfdata = SDL_RWFromFile(dir, "rb");
+            long sizeoffile = SDL_RWseek(ppfdata, 0, RW_SEEK_END);
+            SDL_RWseek(ppfdata, 0, RW_SEEK_SET);
             targetarray = new byte[sizeoffile];
 
             // this pointer used to be called iLostMyLeftHearingAidWhileWritingThisCodeAndSpentAllDaySearchingForIt but honestly that's a pain in the ass for readability
             nint arrptr = Marshal.AllocHGlobal(targetarray.Length);
             Marshal.Copy(targetarray, 0, arrptr, targetarray.Length);
-            SDL.SDL_RWread(ppfdata, arrptr, 8, 1024);
+            SDL_RWread(ppfdata, arrptr, 8, 1024);
             Marshal.Copy(arrptr, targetarray, 0, targetarray.Length);
 
             for (int i = 0; i < 8; i++)
@@ -56,7 +56,7 @@ public static partial class Raquet
                 }
             }
 
-            SDL.SDL_RWclose(ppfdata);
+            SDL_RWclose(ppfdata);
 
             if (Settings.PRINT_DEBUG)
                 Console.WriteLine(string.Concat("Loaded PPF Data at: ", dir, " successfully"));

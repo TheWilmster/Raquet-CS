@@ -1,4 +1,4 @@
-﻿using SDL2;
+﻿using static SDL2.SDL;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -17,21 +17,21 @@ public static partial class Raquet
 
     public class Actor(CHR chr)
     {
-        SDL.SDL_Point position;
+        SDL_Point position;
 
         CHR chr = chr;
-        SDL.SDL_Point origin;
+        SDL_Point origin;
         int width;
         int height;
         int angle;
 
         BoundingBox bbox;
 
-        SDL.SDL_RendererFlip flip;
+        SDL_RendererFlip flip;
 
         void Draw(ref Camera camera)
         {
-            chr.DrawExt(position.x - camera.x, position.y - camera.y, width, height, angle, origin, flip);
+            chr.PlaceExt(position.x - (int)camera.x, position.y - (int)camera.y, width, height, angle, origin, flip);
         }
 
         bool Colliding(int x, int y, Actor collidee)

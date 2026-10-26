@@ -9,7 +9,7 @@ public static partial class Raquet
     {
         public const int SCREEN_WIDTH = 640;
         public const int SCREEN_HEIGHT = 360;
-        public const int SCREEN_SCALE = 3;
+        public const int SCREEN_SCALE = 2;
         public const bool ALLOW_FULLSCREEN = true;
         public const bool INTEGER_SCALING = true;
         public const bool VSYNC = true;
