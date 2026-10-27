@@ -1,15 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 using static SDL2.SDL;
 using static SDL2.SDL_mixer;
-/*
-[DllImport("kernel32.dll")]
-static extern IntPtr GetConsoleWindow();
-
-[DllImport("user32.dll")]
-static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
-
-const int SW_HIDE = 0;
-const int SW_SHOW = 5;*/
 
 namespace Raquet;
 public static partial class Raquet
@@ -43,14 +34,14 @@ public static partial class Raquet
     static double DeltaTime = 1;
 
 
-    [DllImport("kernel32.dll")]
+    /*[DllImport("kernel32.dll")]
     static extern IntPtr GetConsoleWindow();
 
     [DllImport("user32.dll")]
     static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
 
     const int SW_HIDE = 0;
-    const int SW_SHOW = 5;
+    const int SW_SHOW = 5;*/
 
     static bool InitSDL()
     {
@@ -184,7 +175,6 @@ public static partial class Raquet
                 {
                     Fullscreen = !Fullscreen;
                     SDL_SetWindowFullscreen(Window, Fullscreen ? (uint)SDL_WindowFlags.SDL_WINDOW_FULLSCREEN_DESKTOP : 0);
-                    Console.WriteLine("screw you i guess");
                 }
 
                 
