@@ -46,7 +46,7 @@ public static partial class Raquet
             int bboxBottom2 = (collidee.position.y - collidee.origin.y + collidee.bbox.y2);
             int bboxTop2 = (collidee.position.y - collidee.origin.y + collidee.bbox.y1);
 
-            return (bboxRight1 > bboxLeft2) && (bboxLeft1 < bboxLeft2) && (bboxBottom1 > bboxTop2) && (bboxTop1 < bboxBottom2);
+            return (bboxRight1 > bboxLeft2) && (bboxLeft1 < bboxRight2) && (bboxBottom1 > bboxTop2) && (bboxTop1 < bboxBottom2);
         }
     }
 }
