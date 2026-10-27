@@ -7,12 +7,6 @@ public static partial class Raquet
 {
     public static nint LoadSound(string file)
     {
-        if (!File.Exists(file))
-        {
-            if (Settings.PRINT_DEBUG)
-                Console.WriteLine("File " + file + " doesn't exist.");
-            return nint.Zero;
-        }
         return Mix_LoadWAV(file);
     }
 

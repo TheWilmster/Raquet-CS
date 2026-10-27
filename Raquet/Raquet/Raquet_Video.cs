@@ -33,7 +33,7 @@ public static partial class Raquet
         SDL_SetRenderDrawColor(Renderer, (byte)palr, (byte)palg, (byte)palb, alpha);
     }
 
-    public static uint[] gClearColor = new uint[4];
+    public static uint gClearColor;
 
     static void Clear(uint pal)
     {
