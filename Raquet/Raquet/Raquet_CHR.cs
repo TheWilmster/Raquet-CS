@@ -110,7 +110,7 @@ namespace Raquet
                 }
                 Marshal.Copy(pixels, 0, pixelsptr, pixels.Length);
                 SDL_SetTextureBlendMode(ret.tex, SDL_BlendMode.SDL_BLENDMODE_BLEND);
-                SDL_UpdateTexture(ret.tex, nint.Zero, pixelsptr, ret.width * pal.Length);
+                SDL_UpdateTexture(ret.tex, nint.Zero, pixelsptr, ret.width * sizeof(UInt32));
                 
                 return ret;
             }
@@ -161,7 +161,7 @@ namespace Raquet
                     }
                 }
                 Marshal.Copy(pixels, 0, pixelsptr, pixels.Length);
-                SDL_UpdateTexture(tex, nint.Zero, pixelsptr, width * palette.Length);
+                SDL_UpdateTexture(tex, nint.Zero, pixelsptr, width * sizeof(UInt32));
 
                 Marshal.FreeHGlobal(pixelsptr);
             }
