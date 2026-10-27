@@ -17,17 +17,17 @@ public static partial class Raquet
 
     public class Actor(CHR chr)
     {
-        SDL_Point position;
+        public SDL_Point position;
 
-        CHR chr = chr;
-        SDL_Point origin;
-        int width;
-        int height;
-        int angle;
+        public CHR chr = chr;
+        public SDL_Point origin;
+        public int width;
+        public int height;
+        public int angle;
 
-        BoundingBox bbox;
+        public BoundingBox bbox;
 
-        SDL_RendererFlip flip;
+        public SDL_RendererFlip flip;
 
         void Draw(ref Camera camera)
         {
