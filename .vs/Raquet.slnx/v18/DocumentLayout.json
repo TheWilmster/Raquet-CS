@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|c:\\users\\wcoop\\documents\\github\\raquet-cs\\raquet\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|solutionrelative:raquet\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|c:\\users\\wcoop\\documents\\github\\raquet-cs\\raquet\\raquet\\raquet_actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|solutionrelative:raquet\\raquet\\raquet_actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|c:\\users\\wcoop\\documents\\github\\raquet-cs\\raquet\\raquet\\raquet_chr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|solutionrelative:raquet\\raquet\\raquet_chr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|c:\\users\\wcoop\\documents\\github\\raquet-cs\\raquet\\raquet\\raquet_misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|solutionrelative:raquet\\raquet\\raquet_misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|solutionrelative:raquet\\raquet\\raquet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|c:\\users\\wcoop\\documents\\github\\raquet-cs\\raquet\\raquet\\raquet_actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|solutionrelative:raquet\\raquet\\raquet_actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|c:\\users\\wcoop\\documents\\github\\raquet-cs\\raquet\\raquet\\raquet_input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|solutionrelative:raquet\\raquet\\raquet_input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|c:\\users\\wcoop\\documents\\github\\raquet-cs\\raquet\\raquet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|solutionrelative:raquet\\raquet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|c:\\users\\wcoop\\documents\\github\\raquet-cs\\raquet\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|solutionrelative:raquet\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|c:\\users\\wcoop\\documents\\github\\raquet-cs\\raquet\\raquet\\raquet_chr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9EF0B6F-8AB2-CB7F-C59B-94F2197D6CFE}|Raquet\\Raquet.csproj|solutionrelative:raquet\\raquet\\raquet_chr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Raquet.csproj",
               "DocumentMoniker": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet.csproj",
               "RelativeDocumentMoniker": "Raquet\\Raquet.csproj",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Raquet_Misc.cs",
               "DocumentMoniker": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet\\Raquet_Misc.cs",
               "RelativeDocumentMoniker": "Raquet\\Raquet\\Raquet_Misc.cs",
@@ -91,19 +91,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "main.cs",
               "DocumentMoniker": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\main.cs",
               "RelativeDocumentMoniker": "Raquet\\main.cs",
               "ToolTip": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\main.cs",
               "RelativeToolTip": "Raquet\\main.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAApwK0AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwK0AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T22:14:49.822Z"
+              "WhenOpened": "2026-10-25T22:14:49.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Raquet_Sound.cs",
               "DocumentMoniker": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet\\Raquet_Sound.cs",
               "RelativeDocumentMoniker": "Raquet\\Raquet\\Raquet_Sound.cs",
@@ -111,12 +112,11 @@
               "RelativeToolTip": "Raquet\\Raquet\\Raquet_Sound.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T21:58:53.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-25T21:58:53.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Raquet_Palette.cs",
               "DocumentMoniker": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet\\Raquet_Palette.cs",
               "RelativeDocumentMoniker": "Raquet\\Raquet\\Raquet_Palette.cs",
@@ -124,12 +124,11 @@
               "RelativeToolTip": "Raquet\\Raquet\\Raquet_Palette.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAAwEwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T21:56:11.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-25T21:56:11.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Raquet_Video.cs",
               "DocumentMoniker": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet\\Raquet_Video.cs",
               "RelativeDocumentMoniker": "Raquet\\Raquet\\Raquet_Video.cs",
@@ -137,37 +136,37 @@
               "RelativeToolTip": "Raquet\\Raquet\\Raquet_Video.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAuwC4AAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T02:49:37.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T02:49:37.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Raquet_Actor.cs",
               "DocumentMoniker": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet\\Raquet_Actor.cs",
               "RelativeDocumentMoniker": "Raquet\\Raquet\\Raquet_Actor.cs",
               "ToolTip": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet\\Raquet_Actor.cs",
               "RelativeToolTip": "Raquet\\Raquet\\Raquet_Actor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T03:47:37.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Raquet_CHR.cs",
               "DocumentMoniker": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet\\Raquet_CHR.cs",
               "RelativeDocumentMoniker": "Raquet\\Raquet\\Raquet_CHR.cs",
               "ToolTip": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet\\Raquet_CHR.cs",
               "RelativeToolTip": "Raquet\\Raquet\\Raquet_CHR.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAA5wKMAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAwHAAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T21:40:33.858Z"
+              "WhenOpened": "2026-10-04T21:40:33.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Raquet_PPF.cs",
               "DocumentMoniker": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet\\Raquet_PPF.cs",
               "RelativeDocumentMoniker": "Raquet\\Raquet\\Raquet_PPF.cs",
@@ -175,12 +174,11 @@
               "RelativeToolTip": "Raquet\\Raquet\\Raquet_PPF.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAArwA0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T02:51:25.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T02:51:25.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Raquet_Input.cs",
               "DocumentMoniker": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet\\Raquet_Input.cs",
               "RelativeDocumentMoniker": "Raquet\\Raquet\\Raquet_Input.cs",
@@ -188,12 +186,11 @@
               "RelativeToolTip": "Raquet\\Raquet\\Raquet_Input.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAuwDIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T01:26:09.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T01:26:09.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Raquet_Settings.cs",
               "DocumentMoniker": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet\\Raquet_Settings.cs",
               "RelativeDocumentMoniker": "Raquet\\Raquet\\Raquet_Settings.cs",
@@ -201,12 +198,11 @@
               "RelativeToolTip": "Raquet\\Raquet\\Raquet_Settings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAcwBYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T01:19:39.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T01:19:39.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Raquet.cs",
               "DocumentMoniker": "C:\\Users\\wcoop\\Documents\\GitHub\\Raquet-CS\\Raquet\\Raquet\\Raquet.cs",
               "RelativeDocumentMoniker": "Raquet\\Raquet\\Raquet.cs",
@@ -214,8 +210,7 @@
               "RelativeToolTip": "Raquet\\Raquet\\Raquet.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAwB0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T22:33:56.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T22:33:56.363Z"
             }
           ]
         }
